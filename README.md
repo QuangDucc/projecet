@@ -1,2 +1,2 @@
-# projecet
+# project
 Project summarization
